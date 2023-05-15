@@ -1,4 +1,4 @@
-# React Dynamic List of Posts
+# React todo app with api
 
 ## Technologies
 - React.js, TypeScript, HTML, SCSS, HTML5, Figma, Bulma.
